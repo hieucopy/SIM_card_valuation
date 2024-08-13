@@ -1,0 +1,1 @@
+Nowadays, the demand for beautiful phone numbers is increasing. I built a program to calculate and predict the price of beautiful phone numbers. The algorithm used is RNN LSTM (long short term memory).
